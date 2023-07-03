@@ -177,9 +177,6 @@ m
 folium.Marker(location=[26.1574248,127.7197276],popup='ドコモ 八重瀬店　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[24.337392,124.1803035],popup='ドコモ 八重山店　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[26.4214609,127.8233842],popup='au サンエー石川シティ店　　　　　　　　　　　',icon=folium.Icon(color="orange")).add_to(m)
 m
 
